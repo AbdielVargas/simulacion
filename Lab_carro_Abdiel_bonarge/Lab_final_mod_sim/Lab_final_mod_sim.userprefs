@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\proyecto2\Assets\Scripts\CameraRotater.cs">
+    <Files>
+      <File FileName="..\proyecto2\Assets\Scripts\Agent.cs" Line="196" Column="1" />
+      <File FileName="..\proyecto2\Assets\Scripts\CameraRotater.cs" Line="111" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
